@@ -6,5 +6,5 @@ A collection of wine related articles, research, data sets and other materials u
 ## Data Science
 
 ### Datasets
-* (Wine Searcher API)[https://www.wine-searcher.com/trade/developer]
+* [Wine Searcher API](https://www.wine-searcher.com/trade/developer])
 * 
